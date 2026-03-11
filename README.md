@@ -1,4 +1,4 @@
-### Hey, I'm Muhammad
+### Hey, I'm Mamed
 
 Full-stack developer who automates the boring stuff.
 
