@@ -20,4 +20,11 @@ Mostly into developer experience, automation, AI tooling, and making repetitive 
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white)
 ![SST](https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white)
 
+### Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mamedium&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=ffffff&currStreakNum=ffffff&dates=888888" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamedium&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=ffffff&include_all_commits=true" width="49%" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
