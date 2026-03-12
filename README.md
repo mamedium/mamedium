@@ -1,7 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hey%2C+I'm+Mamed;I+automate+the+boring+stuff;Building+AI+products+%40+Sophiie+AI)](https://git.io/typing-svg)
+<div align="center">
 
-Full-stack developer who automates the boring stuff.
-Building AI products at [Sophiie AI](https://github.com/sophiie-ai).
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header&text=Mamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Full-stack+developer;I+automate+the+boring+stuff;Building+AI+products+%40+Sophiie+AI)](https://git.io/typing-svg)
+
+</div>
+
+Building AI products at [Sophiie AI](https://github.com/sophiie-ai). Mostly into developer experience, automation, AI tooling, and making repetitive tasks disappear.
 
 ### Stack
 
@@ -15,4 +20,4 @@ Building AI products at [Sophiie AI](https://github.com/sophiie-ai).
 ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat&logo=webrtc&logoColor=white)
 ![SST](https://img.shields.io/badge/SST-E27152?style=flat&logoColor=white)
 
-Mostly into developer experience, automation, AI tooling, and making repetitive tasks disappear.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
